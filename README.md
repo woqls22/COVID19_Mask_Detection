@@ -25,6 +25,7 @@
 ```$ python detection.py --image [Path to Image]```
 ##### video
 - detection.py 내의 video path 변경 후 사용
+
 ```$ python detection_video.py```
 
 
