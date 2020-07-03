@@ -9,7 +9,8 @@
 ![3](./3.png)
 
 ## Import Module
-- OpenCV with python3
+ OpenCV with python3
+
 - keras, plaidml-keras(AMD GPU Computing), 
 - numpy
 - matplotlib
@@ -17,10 +18,11 @@
 - tensorflow 2.2.0
 
 ## Usage
--- Image
-- $python detection.py --image [Path to Image]
 
--- video
+##### Image
+```$ python detection.py --image [Path to Image]```
+##### video
 - detection.py 내의 video path 변경 후 사용
-- $python detection_video.py
+
+```$ python detection_video.py```
 
