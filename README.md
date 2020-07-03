@@ -1,4 +1,4 @@
-# FaceRecognition
+# Mask Recognition - CNN
 실시간 마스크 착용 여부 감지 모델
 - Mobilenet V2 CNN 모델을 사용하여 마스크 착용 여부를 Predict함. 
 - Face Detection은 Caffe2 프레임워크 사용
@@ -11,7 +11,7 @@
 ## Import Module
  OpenCV with python3
 
-- keras, plaidml-keras(AMD GPU Computing), 
+- keras, plaidml-keras(For AMD GPU Computing)
 - numpy
 - matplotlib
 - argparse
